@@ -1,5 +1,5 @@
 # Oracle
-**Student Information Management System** using **Python (cx_Oracle, ipywidgets)** and **Oracle Database**.  
+This project implements a **Student Information Management System** using **Python (cx_Oracle, ipywidgets)** and **Oracle Database**.  
 It provides an interactive interface in Google Colab/Jupyter to perform a full **CRUD (Create, Read, Update, Delete)** workflow on a Student table, including record retrieval, insertion, update, and deletion. 
 
 ## Features
