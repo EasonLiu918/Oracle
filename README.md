@@ -19,7 +19,7 @@ This project is a sample system built with **Python (cx_Oracle, ipywidgets)** an
 3. Run all cells to start the interactive UI.
 
 ## Screenshot
-<img width="827" height="280" alt="image" src="https://github.com/user-attachments/assets/31dc2259-f134-4e0c-82f3-c3e2873b0a61" />
+<img width="816" height="281" alt="image" src="https://github.com/user-attachments/assets/80c12189-d0ef-485e-a1dc-adee0a95f992" />
 <img width="850" height="315" alt="image" src="https://github.com/user-attachments/assets/898760aa-7456-4939-b6a2-6f89cc51ed81" />
 <img width="801" height="340" alt="image" src="https://github.com/user-attachments/assets/c0f922aa-1026-4735-ac72-9ae153eb92bb" />
 <img width="817" height="403" alt="image" src="https://github.com/user-attachments/assets/d98ba00d-3f77-4ea7-bbb1-c91b4066929b" />
