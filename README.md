@@ -17,6 +17,3 @@ This project is a sample system built with **Python (cx_Oracle, ipywidgets)** an
 1. Open the notebook in Google Colab or Jupyter.
 2. Replace database username/password with your own.
 3. Run all cells to start the interactive UI.
-
-## Screenshots
-(Insert screenshots here)
